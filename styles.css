@@ -1,0 +1,38 @@
+.Red{
+    color: #E50914;
+    font-family: "Bebas Neue;
+}
+.black{
+    background-color: black;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    color: #AAA;
+    text-decoration: none;
+    display: inline;
+    margin-right: 20px;
+}
+header a:hover{
+    color: white;
+}
+header .inicio{
+    color: white;
+}
+
+.Peli-de-inicio{
+    color: white;
+    font-size: 16px;
+    min-height: 40em;
+    background: url(../copia-de-netflix/Imagenes/Ma.jpg);
+}
+
+
