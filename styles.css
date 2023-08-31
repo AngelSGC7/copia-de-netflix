@@ -15,16 +15,14 @@
     justify-content: space-between;
     align-items: center;
 }
-.container2{
-    
-}
 .title{
-    font-family: 'Times New Roman';
+    font-family: 'Fantasy';
+    color: whitesmoke;
     position: absolute;
-    top: 45%;
+    top: 40%;
     left: 600px;
     max-width: 50%;
-    
+    font-size: 50px;
 }
 .description{
 position: absolute;
@@ -34,7 +32,17 @@ max-width: 50%;
 
 }
 
+.boton1{
+    position: absolute;
+    top: 60%;
+    left: 600px;
+}
 
+.boton2{
+    position: absolute;
+    top: 60%;
+    left: 700px;
+}
 
 a{
     color: #AAA;
