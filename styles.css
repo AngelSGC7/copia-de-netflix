@@ -19,14 +19,14 @@
     font-family: 'Fantasy';
     color: whitesmoke;
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 600px;
     max-width: 50%;
     font-size: 50px;
 }
 .description{
 position: absolute;
-top: 50%;
+top: 40%;
 left: 600px;
 max-width: 50%;
 
@@ -34,13 +34,13 @@ max-width: 50%;
 
 .boton1{
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 600px;
 }
 
 .boton2{
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 700px;
 }
 
